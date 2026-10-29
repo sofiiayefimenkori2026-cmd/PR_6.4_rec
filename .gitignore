@@ -1,0 +1,14 @@
+# Visual Studio build and cache
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.aps
+*.suo
+*.ipch
+*.db
+*.opendb
+*.vsidx
+*.log
+*.tlog
